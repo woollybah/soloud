@@ -139,6 +139,7 @@ namespace SoLoud
 		mChannels = 2;
 		mData = 0;
 		mDataLen = 0;
+		mLength = 0;
 	}
 
 	Openmpt::~Openmpt()
